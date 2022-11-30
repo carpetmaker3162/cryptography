@@ -1,1 +1,4 @@
 /target
+
+# Local files that are used for testing purposes or stuff.
+*.local
